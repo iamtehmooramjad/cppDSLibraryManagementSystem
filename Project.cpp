@@ -1,4 +1,4 @@
-//Library Management Project by Tehmoor Amjad, Zeeshan Tanveer, Muhammad Ayaz
+//Library Management Project by Tehmoor Amjad
 #include<iostream>
 #include<conio.h>
 #include<windows.h>

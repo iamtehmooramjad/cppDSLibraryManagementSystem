@@ -1,4 +1,4 @@
-# cppDSLibraryManagementSystem
+# Library Management System in C++ 
 Library Management System in C++ 
 
 In this Library Management System, Two Data Structures have used. One is Tree & the second is Double Linked List Data Structure. 

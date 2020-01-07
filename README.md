@@ -8,4 +8,4 @@ The Second class which is IssueBook consists of private members head & tail poin
 Besides all of these, there are four more functions, one is getDate that displays the current date, getTime that displays the current time, AddingDetails that displays “Adding Details” because I repeatedly use this, so I made it a function & the last function is startUpMenu that displays a menu on program start up.
 
 # Screenshots
-<img src="\cpp1.PNG" height="300px" width="300px">
+<img src="cpp1.PNG" height="300px" width="300px">
